@@ -1,4 +1,8 @@
-# Estrutura-de-Dados
+# Calculadora de frações
 
-Repositório referente a matéria de Estrutura de Dados.
+° Adição
+° Subtração
+° Multiplicação
+° Divisão
 
+-MMC
