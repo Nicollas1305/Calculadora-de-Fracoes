@@ -1,4 +1,4 @@
-# Calculadora de Frações
+# Calculadora de Frações Java
 
 ° Adição
 ° Subtração
