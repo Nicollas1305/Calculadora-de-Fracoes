@@ -1,4 +1,4 @@
-# Calculadora de frações
+# Calculadora de Frações
 
 ° Adição
 ° Subtração
